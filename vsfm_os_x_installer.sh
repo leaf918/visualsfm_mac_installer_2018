@@ -447,3 +447,6 @@ if [[ $? -eq 0 ]]; then
 
 
 ### END OF SCRIPT
+
+### added by leef ,2017
+brew install imagemagick

@@ -5,6 +5,7 @@ VisualSFM installer script for OS X Mavericks
 
 
 Here's a quick guide on how to use the installer.
+0.unzip SiftGPU.zip,and follow the next script.
 
 1. Get the installer from the github page where it says "Download ZIP"... since you are here=]
 
@@ -34,7 +35,6 @@ $ sh vsfm_os_x_installer_mavericks.sh
 
 12... stay tuned for updates, but that's pretty much the procedure in a nutshell.
 
-Cheers,
+thanks 
 Dan Monaghan
-www.luckybulldozer.com
 # visualsfm_mac_installer_2018
