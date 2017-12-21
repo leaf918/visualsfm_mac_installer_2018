@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/pmvs2.dir/pmvs2.cc.o  -o pmvs2 ../base/pmvs/libpmvs_lib.a ../base/image/libimage_lib.a ../base/numeric/libnumeric_lib.a /usr/local/lib/libjpeg.dylib ../thirdParty/nlopt-2.4.2/libnlopt.a ../thirdParty/tinycthread/libtinycthread.a 

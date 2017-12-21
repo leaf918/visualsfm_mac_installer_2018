@@ -1,0 +1,31 @@
+15 warnings generated.
+[ 89%] Building C object thirdParty/nlopt-2.4.2/CMakeFiles/nlopt.dir/util/mt19937ar.c.o
+[ 90%] Building C object thirdParty/nlopt-2.4.2/CMakeFiles/nlopt.dir/util/sobolseq.c.o
+[ 91%] Building C object thirdParty/nlopt-2.4.2/CMakeFiles/nlopt.dir/util/timer.c.o
+/Users/liliqiang/Documents/VisualSFM/CMVS-PMVS-master/program/thirdParty/nlopt-2.4.2/util/timer.c:49:4: warning: implicit
+      declaration of function 'gettimeofday' is invalid in C99 [-Wimplicit-function-declaration]
+          gettimeofday(&start, NULL);
+          ^
+1 warning generated.
+[ 92%] Building C object thirdParty/nlopt-2.4.2/CMakeFiles/nlopt.dir/util/stop.c.o
+[ 92%] Building C object thirdParty/nlopt-2.4.2/CMakeFiles/nlopt.dir/util/redblack.c.o
+[ 93%] Building C object thirdParty/nlopt-2.4.2/CMakeFiles/nlopt.dir/util/qsort_r.c.o
+[ 94%] Building C object thirdParty/nlopt-2.4.2/CMakeFiles/nlopt.dir/util/rescale.c.o
+[ 95%] Building CXX object thirdParty/nlopt-2.4.2/CMakeFiles/nlopt.dir/stogo/global.cc.o
+[ 95%] Building CXX object thirdParty/nlopt-2.4.2/CMakeFiles/nlopt.dir/stogo/linalg.cc.o
+[ 96%] Building CXX object thirdParty/nlopt-2.4.2/CMakeFiles/nlopt.dir/stogo/local.cc.o
+[ 97%] Building CXX object thirdParty/nlopt-2.4.2/CMakeFiles/nlopt.dir/stogo/stogo.cc.o
+[ 98%] Building CXX object thirdParty/nlopt-2.4.2/CMakeFiles/nlopt.dir/stogo/tools.cc.o
+[ 98%] Linking CXX static library libnlopt.a
+[ 98%] Built target nlopt
+Scanning dependencies of target pmvs2
+[ 99%] Building CXX object main/CMakeFiles/pmvs2.dir/pmvs2.cc.o
+[100%] Linking CXX executable pmvs2
+[100%] Built target pmvs2
+CMVS & PMVS built... moving on
+/Users/liliqiang/Documents/VisualSFM
+Success!  Opening VSFM dir
+To add to your PATH, add the lines below to your ~/.bash_profile file.
+export PATH=/Users/liliqiang/Documents/VisualSFM/vsfm/bin:$PATH
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/Users/liliqiang/Documents/VisualSFM
+Make sure you ammend that that path if you move the directory.

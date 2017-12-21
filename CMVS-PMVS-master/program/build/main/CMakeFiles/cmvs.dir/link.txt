@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -O3 -DNDEBUG -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/cmvs.dir/cmvs.cc.o  -o cmvs ../base/cmvs/libcmvs_lib.a ../base/image/libimage_lib.a ../thirdParty/graclus1.2/libgraclus_lib.a /usr/local/lib/libjpeg.dylib ../thirdParty/tinycthread/libtinycthread.a 

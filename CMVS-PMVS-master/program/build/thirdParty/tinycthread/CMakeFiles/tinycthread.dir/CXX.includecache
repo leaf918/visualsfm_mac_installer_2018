@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liliqiang/Documents/VisualSFM/CMVS-PMVS-master/program/thirdParty/tinycthread/rwmutex.cpp
+rwmutex.h
+/Users/liliqiang/Documents/VisualSFM/CMVS-PMVS-master/program/thirdParty/tinycthread/rwmutex.h
+limits.h
+-
+
+/Users/liliqiang/Documents/VisualSFM/CMVS-PMVS-master/program/thirdParty/tinycthread/rwmutex.h
+tinycthread.h
+/Users/liliqiang/Documents/VisualSFM/CMVS-PMVS-master/program/thirdParty/tinycthread/tinycthread.h
+
+/Users/liliqiang/Documents/VisualSFM/CMVS-PMVS-master/program/thirdParty/tinycthread/tinycthread.h
+time.h
+-
+pthread.h
+-
+windows.h
+-
+

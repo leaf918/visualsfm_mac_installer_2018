@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liliqiang/Documents/VisualSFM/CMVS-PMVS-master/program/main/genOption.cc
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+stdio.h
+-
+stdlib.h
+-
+
