@@ -38,3 +38,4 @@ $ sh vsfm_os_x_installer_mavericks.sh
 thanks 
 Dan Monaghan
 # visualsfm_mac_installer_2018
+the sh script works on mac 10.13.2 High Sierra
